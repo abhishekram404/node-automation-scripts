@@ -2,7 +2,7 @@
 A repository of scripts for automation of personal tasks using Node JS. 
 
 ## Scripts
-### moveFilesFromNestedFolder.js 
+### 1. moveFilesFromNestedFolder.js 
 A NodeJS script to move multiple files from nested folders into a single root folder.
 
 #### Before
@@ -43,3 +43,4 @@ root
 |
 
 ```
+---
